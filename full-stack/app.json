@@ -42,17 +42,18 @@
     "experiments": {
       "typedRoutes": true
     },
-    "extra": {
-      "eas": {
-        "projectId": "35aae221-2f3c-4cba-a266-939001718d54"
-      }
-    },
-    "owner": "marciobueno1",
-    "updates": {
-      "url": "https://u.expo.dev/35aae221-2f3c-4cba-a266-939001718d54"
-    },
     "runtimeVersion": {
       "policy": "appVersion"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "48f53081-d43f-4363-910d-a7ade34dcf62"
+      }
+    },
+    "owner": "minyonhee",
+    "updates": {
+      "url": "https://u.expo.dev/48f53081-d43f-4363-910d-a7ade34dcf62"
     }
   }
 }
